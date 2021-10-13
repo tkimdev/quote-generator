@@ -6,3 +6,15 @@ Technologies Used:
 + HTML5 
 + CSS3
 + Vanilla JavaScript 
+
+
+Learned: 
++ Asynchronous Fetch request to REST API 
++ Solve CORS Policy Error using Proxy API 
++ Font Awesome Icons 
++ Custom Google Fonts 
++ Loader Spinner between Generating Quotes 
++ Twitter Integration
++ Mobile Responsive 
+
+![Capture-2](https://user-images.githubusercontent.com/68490255/137051683-9e01c6c2-6404-4fef-8b0a-3a544d1f1931.jpg)
