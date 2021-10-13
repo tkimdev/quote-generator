@@ -2,6 +2,8 @@
 
 A fully functional Inspirational Quote Generator which fetches quotes from forismatic API - features include: Generate New Quote with ability to share your quote on Twitter in real time. 
 
+### [Live Site](https://tonykimdev.github.io/quote-generator/)
+
 Technologies Used: 
 + HTML5 
 + CSS3
