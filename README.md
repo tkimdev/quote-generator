@@ -1,6 +1,6 @@
 # quote-generator
 
-A fully functional Inspirational Quote Generator which fetches quotes from forismatic API - features include: Generate New Quote with ability to share your quote on Twitter 
+A fully functional Inspirational Quote Generator which fetches quotes from forismatic API - features include: Generate New Quote with ability to share your quote on Twitter in real time. 
 
 Technologies Used: 
 + HTML5 
